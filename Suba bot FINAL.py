@@ -84,4 +84,4 @@ async def hello (ctx):
 async def argin (ctx):
     await ctx.send(('**SUBA SALT 100**'))
 
-bot.run('NTg4MzM1MzY0NzgwMDY0Nzg5.XQDoGQ.eQtMVEEypiqdOrwIy1KdMKwa89k')
+bot.run('token')
